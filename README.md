@@ -5,6 +5,7 @@ Commodity price prediction pipeline built for the Mitsui Commodity Prediction Ch
 ## Contents
 
 - [marketoracle.ipynb](marketoracle.ipynb) — main notebook: data loading, feature engineering, model training, and prediction pipeline.
+- [rf_baseline.ipynb](rf_baseline.ipynb) — RandomForest baseline with technical indicators (SMA/EMA/RSI/MACD/Bollinger Bands).
 
 ## Stack
 
